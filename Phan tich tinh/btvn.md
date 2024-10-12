@@ -1,5 +1,5 @@
 # Bài tập phân tích tĩnh mã độc
-## Phân tích tĩnh mã độc brbbot.exe trong thư mục sample buoi 2.zip (pass giải nén: infected). Xác định:
+Phân tích tĩnh mã độc brbbot.exe trong thư mục sample buoi 2.zip (pass giải nén: infected). Xác định:
 ## 1. Mã độc có bị virustotal gán nhãn độc hại hay không?
 - Truy cập vào trang web `virustotal.com`, ta thấy 63/73 vấn đề mã độc
 
